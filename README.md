@@ -7,6 +7,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [DockerHub](https://hub.docker.com)
 * [Elm](http://elm-lang.org)
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
+* [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [Google Developers](https://developers.google.com)
 * [Graphql](https://graphql.org): Main website of The GraphQL Foundation.
 * [Graphene](http://graphene-python.org): GraphQL in Python.

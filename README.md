@@ -8,5 +8,5 @@ Awesome list about tech sites/services restricted for Cuba
 * [Graphql](https://graphql.org/)
 * [Graphene](http://graphene-python.org)
 * [Graph Databases](https://graphdatabases.com)
-* [NVIDIA] (http://www.nvidia.com/)
+* [NVIDIA](http://www.nvidia.com/)
 * [Phoenix Framework](https://www.phoenixframework.org/)

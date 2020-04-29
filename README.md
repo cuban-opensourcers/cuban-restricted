@@ -19,3 +19,9 @@ Awesome list about tech sites/services restricted for Cuba
 * [Phoenix Framework](https://www.phoenixframework.org)
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
+* [Dell](https://dell.com): American multinational computer technology company.
+* [Oracle](https://oracle.com): American multinational computer technology corporation.
+* [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
+* [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
+* [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
+

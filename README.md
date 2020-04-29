@@ -24,5 +24,4 @@ Awesome list about tech sites/services restricted for Cuba
 * [Phoenix Framework](https://www.phoenixframework.org)
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
-* [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Zoom](https://www.zoom.us/): Free video conference platform.

@@ -1,6 +1,6 @@
-# cuban-restricted
-Awesome list about tech sites/services restricted for Cuba
+# Software, sites, and services restricted for Cuba
 
+Awesome list about tech sites/services restricted for Cuba
 
 * [DockerHub](https://hub.docker.com/)
 * [Elm](http://elm-lang.org)

@@ -18,7 +18,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [Intel](https://www.intel.com)
-* [MongoDB](https://www.mongodb.com) Cloud services and documentation for MongoDB, a document database.
+* [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [NVIDIA](http://www.nvidia.com)
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Phoenix Framework](https://www.phoenixframework.org)

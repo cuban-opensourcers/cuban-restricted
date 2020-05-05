@@ -4,6 +4,7 @@ Awesome list about tech sites/services restricted for Cuba
 
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [Android Developers](https://developer.android.com)
+* [COUSERA](https://es.coursera.org): Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
 * [Elm](http://elm-lang.org)

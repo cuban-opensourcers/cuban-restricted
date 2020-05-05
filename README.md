@@ -27,4 +27,3 @@ Awesome list about tech sites/services restricted for Cuba
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Zoom](https://www.zoom.us/): Free video conference platform.
-* [COUSERA](https://es.coursera.org): Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población. 

@@ -28,3 +28,5 @@ Awesome list about tech sites/services restricted for Cuba
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Zoom](https://www.zoom.us/): Free video conference platform.
+* [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
+* [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.

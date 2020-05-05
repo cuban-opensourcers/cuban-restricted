@@ -21,6 +21,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [NVIDIA](http://www.nvidia.com)
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
+* [Java](https://www.java.com/download/): World leading programming language and computing platform.
 * [Phoenix Framework](https://www.phoenixframework.org)
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Schema.org](https://schema.org): Schema.org specification.

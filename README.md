@@ -22,6 +22,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Intel](https://www.intel.com)
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
+* [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
 * [NVIDIA](http://www.nvidia.com)
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.

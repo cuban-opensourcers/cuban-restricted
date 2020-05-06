@@ -13,6 +13,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
 * [Google Developers](https://developers.google.com)
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
+* [Google's maven repository](https://dl.google.com/dl/android/maven2/): Google's Maven repository is mostly used for distributing artifacts relating to Android
 * [Graphql](https://graphql.org): Main website of The GraphQL Foundation.
 * [Graphene](http://graphene-python.org): GraphQL in Python.
 * [Graph Databases](https://graphdatabases.com): A GraphQL book.

@@ -26,6 +26,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Kaggle](https://www.kaggle.com/): World's largest data science community
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
+* [MySQL](https://www.mysql.com): Open-source relational database management system (the site is accessible, but downloads are prohibited)
 * [NVIDIA](http://www.nvidia.com)
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.

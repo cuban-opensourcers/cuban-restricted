@@ -11,6 +11,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Elm](http://elm-lang.org)
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
+* [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
 * [Google Developers](https://developers.google.com)
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.

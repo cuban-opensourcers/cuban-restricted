@@ -40,7 +40,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
-* [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done.
+* [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.

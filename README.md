@@ -5,6 +5,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com)
+* [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [COUSERA](https://es.coursera.org): Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población. 
 * [Dell](https://dell.com): American multinational computer technology company.

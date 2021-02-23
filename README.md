@@ -10,6 +10,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
 * [Elm](http://elm-lang.org)
+* [Expo](https://expo.io/): Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [Google Arts & Culture](https://artsandculture.google.com/usergallery/wwIyoe5mYvptIA): Google Arts & Culture es un sitio web del Instituto Cultural de Google que presenta una recopilación de imágenes en alta resolución de obras de arte expuestas en varios museos del mundo, así como un recorrido virtual por las galerías en las que se encuentran.

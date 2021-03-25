@@ -8,7 +8,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Adobe Suite](https://www.adobe.com/) 
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
-* [COUSERA](https://es.coursera.org): Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población. 
+* [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
 * [Elm](http://elm-lang.org)

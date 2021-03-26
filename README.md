@@ -8,6 +8,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Adobe Suite](https://www.adobe.com/) 
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
+* [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
@@ -47,6 +48,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
+* [Telerik](https://www.telerik.com/): Suite de componentes para jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
@@ -54,6 +56,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
+* [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
 * [Zoom](https://www.zoom.us/): Free video conference platform.
 * [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.

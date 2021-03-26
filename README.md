@@ -5,14 +5,18 @@ Awesome list about tech sites/services restricted for Cuba
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com)
+* [Adobe Suite](https://www.adobe.com/) 
+* [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
-* [COUSERA](https://es.coursera.org): Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población. 
+* [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
 * [Elm](http://elm-lang.org)
+* [Expo](https://expo.io/): Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
+* [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
 * [Google Arts & Culture](https://artsandculture.google.com/usergallery/wwIyoe5mYvptIA): Google Arts & Culture es un sitio web del Instituto Cultural de Google que presenta una recopilación de imágenes en alta resolución de obras de arte expuestas en varios museos del mundo, así como un recorrido virtual por las galerías en las que se encuentran.
 * [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
@@ -36,10 +40,13 @@ Awesome list about tech sites/services restricted for Cuba
 * [NVIDIA](http://www.nvidia.com)
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.
+* [Jira](https://jira.atlassian.com/): Issue tracking product developed by Atlassian
+* [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Phoenix Framework](https://www.phoenixframework.org)
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
+* [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [Telerik](https://www.telerik.com/): Suite de componentes para jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
@@ -47,8 +54,10 @@ Awesome list about tech sites/services restricted for Cuba
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
+* [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
 * [Zoom](https://www.zoom.us/): Free video conference platform.
 * [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
+* [000webhost](https://www.000webhost.com/) Free web hosting with cPanel, PHP & MySQL for a stunning blogging start

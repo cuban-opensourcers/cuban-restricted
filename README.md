@@ -49,6 +49,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
+* [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.

@@ -5,10 +5,12 @@ Awesome list about tech sites/services restricted for Cuba
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com)
+* [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
 * [Adobe Suite](https://www.adobe.com/) 
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
+* [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
@@ -17,6 +19,7 @@ Awesome list about tech sites/services restricted for Cuba
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
+* [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
 * [Google Arts & Culture](https://artsandculture.google.com/usergallery/wwIyoe5mYvptIA): Google Arts & Culture es un sitio web del Instituto Cultural de Google que presenta una recopilación de imágenes en alta resolución de obras de arte expuestas en varios museos del mundo, así como un recorrido virtual por las galerías en las que se encuentran.
 * [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
@@ -47,6 +50,8 @@ Awesome list about tech sites/services restricted for Cuba
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
+* [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
+* [TeamSpeak](https://www.teamspeak.com/): VoIP communication system.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [Telerik](https://www.telerik.com/): Suite de componentes para jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.

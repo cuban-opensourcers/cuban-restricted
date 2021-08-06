@@ -62,6 +62,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list have not
 * [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
+* [WeTransfer](https://www.wetransfer.com/): File sharing service.
 * [Zoom](https://www.zoom.us/): Free video conference platform.
 * [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.

@@ -47,6 +47,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list have not
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Phoenix Framework](https://www.phoenixframework.org)
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
+* [RStudio](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf): RStudio is a set of integrated tools designed to help you be more productive with the programming language.
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.

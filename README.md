@@ -1,6 +1,6 @@
 # Software, sites, and services restricted for Cuba
 
-Awesome list about tech sites/services restricted for Cuba. **This list have not being authored by Github Inc. It is maintained by its [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors).**
+Awesome list about tech sites/services restricted for Cuba. **This list has not been created by Github Inc. It is rather maintained by [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors) to this project.**
 
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.

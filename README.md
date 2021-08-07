@@ -30,6 +30,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Graphql](https://graphql.org): Main website of The GraphQL Foundation.
 * [Graphene](http://graphene-python.org): GraphQL in Python.
 * [Graph Databases](https://graphdatabases.com): A GraphQL book.
+* [gVisor](https://gvisor.dev/): gVisor is an application kernel for containers that provides efficient defense-in-depth anywhere.
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.

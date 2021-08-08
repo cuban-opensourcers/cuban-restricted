@@ -8,6 +8,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
 * [Adobe Suite](https://www.adobe.com/) 
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
+* [Bugsnag](https://app.bugsnag.com/): Bugsnag monitors application stability so you can make data-driven decisions on whether you should be building new features, or fixing bugs.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
@@ -34,6 +35,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
+* [ipinfo.io](https://ipinfo.io/): Comprehensive IP address data, IP geolocation API and database.
 * [Intel](https://www.intel.com)
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
 * [Kaggle](https://www.kaggle.com/): World's largest data science community

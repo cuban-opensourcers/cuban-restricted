@@ -26,19 +26,20 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Google Arts & Culture](https://artsandculture.google.com/usergallery/wwIyoe5mYvptIA): Google Arts & Culture es un sitio web del Instituto Cultural de Google que presenta una recopilación de imágenes en alta resolución de obras de arte expuestas en varios museos del mundo, así como un recorrido virtual por las galerías en las que se encuentran.
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
 * [Google Developers](https://developers.google.com)
-* [Google Play](https://play.google.com): Official app store for the Android operating system (only several free applications are accessible)
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
+* [Google Play](https://play.google.com): Official app store for the Android operating system (only several free applications are accessible)
 * [Google's maven repository](https://dl.google.com/dl/android/maven2/): Google's Maven repository is mostly used for distributing artifacts relating to Android
-* [Graph Databases](https://graphdatabases.com): A GraphQL book.
+* [Grafana](https://grafana.com): Open observability platform.
 * [Graphene](http://graphene-python.org): GraphQL in Python.
 * [Graphql](https://graphql.org): Main website of The GraphQL Foundation.
+* [Graph Databases](https://graphdatabases.com): A GraphQL book.
 * [gVisor](https://gvisor.dev/): gVisor is an application kernel for containers that provides efficient defense-in-depth anywhere.
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
-* [Intel](https://www.intel.com)
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
-* [ipinfo.io](https://ipinfo.io/): Comprehensive IP address data, IP geolocation API and database.
+* [Intel](https://www.intel.com)
+* [IPinfo](https://ipinfo.io/): Comprehensive IP address data, IP geolocation API and database.
 * [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.
 * [Jira](https://jira.atlassian.com/): Issue tracking product developed by Atlassian
@@ -55,6 +56,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [RStudio](https://www.rstudio.com): RStudio is a set of integrated tools designed to help you be more productive with the programming language. [Link to License](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf) in which the restriction is explicitely stated.
 * [Schema.org](https://schema.org): Schema.org specification.
+* [Sophos](https://www.sophos.com): Fully Synchronized, Cloud-Native Data Security.
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.

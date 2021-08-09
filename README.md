@@ -29,6 +29,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
 * [Google Play](https://play.google.com): Official app store for the Android operating system (only several free applications are accessible)
 * [Google's maven repository](https://dl.google.com/dl/android/maven2/): Google's Maven repository is mostly used for distributing artifacts relating to Android
+* [Grafana](https://grafana.com): Open observability platform.
 * [Graphene](http://graphene-python.org): GraphQL in Python.
 * [Graphql](https://graphql.org): Main website of The GraphQL Foundation.
 * [Graph Databases](https://graphdatabases.com): A GraphQL book.

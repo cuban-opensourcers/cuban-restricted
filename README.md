@@ -70,6 +70,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
+* [VMWare](https://www.vmware.com): Cloud computing and virtualization technology.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
 * [WeTransfer](https://www.wetransfer.com/): File sharing service.
 * [Zoom](https://www.zoom.us/): Free video conference platform.

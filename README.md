@@ -24,6 +24,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
 * [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
+* [Gitpod](https://www.gitpod.io/): Fully functional development environment, including a VS Code-based IDE and a cloud-based Linux container.
 * [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
 * [Google Arts & Culture](https://artsandculture.google.com/usergallery/wwIyoe5mYvptIA): Google Arts & Culture es un sitio web del Instituto Cultural de Google que presenta una recopilación de imágenes en alta resolución de obras de arte expuestas en varios museos del mundo, así como un recorrido virtual por las galerías en las que se encuentran.
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.

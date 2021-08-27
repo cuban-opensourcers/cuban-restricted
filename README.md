@@ -69,6 +69,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Telerik](https://www.telerik.com/): Suite de componentes para jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
+* [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.

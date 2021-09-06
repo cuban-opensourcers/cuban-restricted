@@ -7,7 +7,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
-* [Android Developers](https://developer.android.com)
+* [Android Developers](https://developer.android.com): The official site for Android app developers. Provides the Android SDK tools and API documentation.
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
@@ -61,6 +61,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Softonic](https://www.softonic.com): App news and reviews, best software downloads and discovery.
 * [Sophos](https://www.sophos.com): Fully Synchronized, Cloud-Native Data Security.
+* [SourceForge](https://sourceforge.net): Open Source community resource dedicated to helping open source projects be as successful as possible (blocks file downloads by default).
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.

@@ -16,7 +16,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
-* [Elm](http://elm-lang.org)
+* [Elm](http://elm-lang.org): Programming language for reliable web applications.
 * [Expo](https://expo.io/): Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 * [FileHippo](https://www.filehippo.com): Free downloads for recent versions of popular freeware/shareware MS Windows software.
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
@@ -41,7 +41,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
-* [Intel](https://www.intel.com)
+* [Intel](https://www.intel.com): Data Center Solutions, IoT, and PC Innovation. (Other localized sites such as https://www.intel.es or https://www.intel.la work, though)
 * [IPinfo](https://ipinfo.io/): Comprehensive IP address data, IP geolocation API and database.
 * [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.

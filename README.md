@@ -13,6 +13,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
 * [Bugsnag](https://app.bugsnag.com/): Bugsnag monitors application stability so you can make data-driven decisions on whether you should be building new features, or fixing bugs.
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
+* [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com)
@@ -32,7 +33,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Google Developers](https://developers.google.com): Resources for building better apps.
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
 * [Google Play](https://play.google.com): Official app store for the Android operating system (only several free applications are accessible)
-* [Google's maven repository](https://dl.google.com/dl/android/maven2/): Google's Maven repository is mostly used for distributing artifacts relating to Android
+* [Google's maven repository](https://dl.google.com/dl/android/maven2/): Google's Maven repository is mostly used for distributing artifacts relating to Android.
 * [Grafana](https://grafana.com): Open observability platform.
 * [Graphene](http://graphene-python.org): GraphQL in Python.
 * [Graphql](https://graphql.org): Main website of The GraphQL Foundation.

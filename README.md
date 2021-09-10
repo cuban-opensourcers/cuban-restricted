@@ -32,7 +32,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
 * [Google Developers](https://developers.google.com): Resources for building better apps.
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
-* [Google Play](https://play.google.com): Official app store for the Android operating system (only several free applications are accessible)
+* [Google Play](https://play.google.com): Official app store for the Android operating system (paid applications and several free applications are unavailable from Cuba)
 * [Google's maven repository](https://dl.google.com/dl/android/maven2/): Google's Maven repository is mostly used for distributing artifacts relating to Android.
 * [Grafana](https://grafana.com): Open observability platform.
 * [Graphene](http://graphene-python.org): GraphQL in Python.
@@ -55,7 +55,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
 * [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.
 * [MySQL](https://www.mysql.com): Open-source relational database management system (the site is accessible, but downloads are prohibited)
-* [NVIDIA](http://www.nvidia.com)
+* [NVIDIA](http://www.nvidia.com): Inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
@@ -65,13 +65,13 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Schema.org](https://schema.org): Schema.org specification.
 * [Softonic](https://www.softonic.com): App news and reviews, best software downloads and discovery.
 * [Sophos](https://www.sophos.com): Fully Synchronized, Cloud-Native Data Security.
-* [SourceForge](https://sourceforge.net): Open Source community resource dedicated to helping open source projects be as successful as possible (blocks file downloads by default).
+* [SourceForge](https://sourceforge.net): Open Source community resource dedicated to helping open source projects be as successful as possible (blocks file downloads from Cuba by default).
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
 * [TeamSpeak](https://www.teamspeak.com/): VoIP communication system.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
-* [Telerik](https://www.telerik.com/): Suite de componentes para jQuery/Angular/React/Vue/.Net/Java/PHP
+* [Telerik](https://www.telerik.com/): Component suite for jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+

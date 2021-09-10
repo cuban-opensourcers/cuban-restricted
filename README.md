@@ -40,6 +40,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [gVisor](https://gvisor.dev/): gVisor is an application kernel for containers that provides efficient defense-in-depth anywhere.
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
+* [HOPL](https://hopl.info): Online Historical Encyclopaedia of Programming Languages.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
 * [Intel](https://www.intel.com): Data Center Solutions, IoT, and PC Innovation. (Other localized sites such as https://www.intel.es or https://www.intel.la work, though)

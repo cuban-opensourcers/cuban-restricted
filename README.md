@@ -23,6 +23,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
 * [Fiverr](https://fiverr.com): Freelance Services Marketplace for Businesses.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
+* [FreedomPhone](https://www.freedomphone.com): Free speech and privacy-first focused phone. With features like tracking blockers and an uncensorable app store.
 * [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
 * [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
 * [Gitpod](https://www.gitpod.io/): Fully functional development environment, including a VS Code-based IDE and a cloud-based Linux container.

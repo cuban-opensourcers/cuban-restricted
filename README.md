@@ -14,6 +14,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Bugsnag](https://app.bugsnag.com/): Bugsnag monitors application stability so you can make data-driven decisions on whether you should be building new features, or fixing bugs.
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
+* [Confluence](https://www.atlassian.com/software/confluence): Atlassian software used for team collaboration.
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
 * [DockerHub](https://hub.docker.com): World's easiest way to create, manage, and deliver your teams' container applications.

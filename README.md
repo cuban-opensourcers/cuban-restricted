@@ -8,6 +8,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com): The official site for Android app developers. Provides the Android SDK tools and API documentation.
+* [App Academy](https://www.appacademy.io/): Code academy.
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
@@ -16,11 +17,13 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
+* [devCodeCamp](https://devcodecamp.com/): Online coding bootcamp.
 * [DockerHub](https://hub.docker.com): World's easiest way to create, manage, and deliver your teams' container applications.
 * [Elm](http://elm-lang.org): Programming language for reliable web applications.
 * [Expo](https://expo.io/): Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 * [FileHippo](https://www.filehippo.com): Free downloads for recent versions of popular freeware/shareware MS Windows software.
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.
+* [First Code Academy](https://www.firstcodeacademy.com/): Code academy.
 * [Fiverr](https://fiverr.com): Freelance Services Marketplace for Businesses.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [FreedomPhone](https://www.freedomphone.com): Free speech and privacy-first focused phone. With features like tracking blockers and an uncensorable app store.

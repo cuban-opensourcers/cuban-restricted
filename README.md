@@ -76,10 +76,12 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
+* [Taler](https://www.taler.app/): Drag & drop design platform.
 * [TeamSpeak](https://www.teamspeak.com/): VoIP communication system.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [Telerik](https://www.telerik.com/): Component suite for jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
+* [ThemeForest](https://themeforest.net/): Professional WordPress Themes & Website Templates for any project.
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
@@ -92,4 +94,3 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [WeTransfer](https://www.wetransfer.com/): File sharing service.
 * [Wise](https://http://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world. 
 * [Zoom](https://www.zoom.us/): Free video conference platform.
-* [Taler](https://www.taler.app/): Drag & drop design platform.

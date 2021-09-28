@@ -33,6 +33,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
 * [Google Arts & Culture](https://artsandculture.google.com/): Non-profit initiative working with cultural institutions and artists around the world, to preserve and bring the world’s art and culture online so it’s accessible to anyone, anywhere.
 * [Google Books Ngram Viewer](https://books.google.com/ngrams): Online search engine that charts the frequencies of any set of search strings found in written sources.
+* [Google Chrome Developer](https://developer.chrome.com/): Official site for creating extensions, publishing to the Chrome Web Store, optimizing websites, and more.
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
 * [Google Developers](https://developers.google.com): Resources for building better apps.
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.

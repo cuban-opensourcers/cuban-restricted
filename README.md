@@ -85,5 +85,5 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [VMWare](https://www.vmware.com): Cloud computing and virtualization technology.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
 * [WeTransfer](https://www.wetransfer.com/): File sharing service.
-* [Wise](https://http://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world. 
+* [Wise](http://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world. 
 * [Zoom](https://www.zoom.us/): Free video conference platform.

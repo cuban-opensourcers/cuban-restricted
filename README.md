@@ -11,8 +11,9 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [App Academy](https://www.appacademy.io/): Code academy.
 * [Atlassian](https://www.atlassian.com/): Software Development and Collaboration Tools.
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
-* [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
-* [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting
+* [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian.
+* [Bitly](https://bit.ly/): URL shortening service and link management platform.
+* [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting.
 * [Bugsnag](https://app.bugsnag.com/): Bugsnag monitors application stability so you can make data-driven decisions on whether you should be building new features, or fixing bugs.
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.

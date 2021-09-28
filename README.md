@@ -83,6 +83,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Telerik](https://www.telerik.com/): Component suite for jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
 * [ThemeForest](https://themeforest.net/): Professional WordPress Themes & Website Templates for any project.
+* [Toptal](https://www.toptal.com/): A global remote company that provides a freelancing platform (the site loads from Cuba, but prevents applying as a freelancer of hiring one).
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.

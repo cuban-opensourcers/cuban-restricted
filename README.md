@@ -43,6 +43,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [HOPL](https://hopl.info): Online Historical Encyclopaedia of Programming Languages.
+* [IBM](https://www.ibm.com/): International Business Machines Corporation, an American multinational technology corporation providing computer hardware, software and consulting services.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
 * [Intel](https://www.intel.com): Data Center Solutions, IoT, and PC Innovation. (Other localized sites such as https://www.intel.es or https://www.intel.la work, though)
@@ -60,7 +61,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
-* [Phoenix Framework](https://www.phoenixframework.org)
+* [Phoenix Framework](https://www.phoenixframework.org): Web development framework written in the functional programming language Elixir.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [RevertService](http://revertservice.com): Default configurations of Windows services.
 * [RStudio](https://www.rstudio.com): RStudio is a set of integrated tools designed to help you be more productive with the programming language. [Link to License](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf) in which the restriction is explicitely stated.

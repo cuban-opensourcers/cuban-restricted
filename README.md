@@ -9,6 +9,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com): The official site for Android app developers. Provides the Android SDK tools and API documentation.
 * [App Academy](https://www.appacademy.io/): Code academy.
+* [Atlassian](https://www.atlassian.com/): Software Development and Collaboration Tools.
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting

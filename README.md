@@ -60,6 +60,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Jira](https://jira.atlassian.com/): Issue tracking product developed by Atlassian
 * [Kaggle](https://www.kaggle.com/): World's largest data science community
 * [Lager](https://www.lagerdata.com/): Debug, measure signals, fetch logs, write test automations, and More... on custom hardware anywhere in the world.
+* [Mojaloop](https://mojaloop.io/): Open source software for payment interoperability.
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
 * [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.

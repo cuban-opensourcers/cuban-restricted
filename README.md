@@ -29,6 +29,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Fiverr](https://fiverr.com): Freelance Services Marketplace for Businesses.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [FreedomPhone](https://www.freedomphone.com): Free speech and privacy-first focused phone. With features like tracking blockers and an uncensorable app store.
+* [Freenom](https://www.freenom.com/): Freenom is a domain registrar that provides unlimited free domains (ending in .tk, .ml, .ga, .cf, or .gq) that last for one year.
 * [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
 * [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
 * [Gitpod](https://www.gitpod.io/): Fully functional development environment, including a VS Code-based IDE and a cloud-based Linux container.

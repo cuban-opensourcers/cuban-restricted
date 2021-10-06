@@ -72,6 +72,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Phoenix Framework](https://www.phoenixframework.org): Web development framework written in the functional programming language Elixir.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
+* [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
 * [RevertService](http://revertservice.com): Default configurations of Windows services.
 * [RStudio](https://www.rstudio.com): RStudio is a set of integrated tools designed to help you be more productive with the programming language. [Link to License](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf) in which the restriction is explicitely stated.
 * [Schema.org](https://schema.org): Schema.org specification.

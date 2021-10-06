@@ -75,6 +75,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [RevertService](http://revertservice.com): Default configurations of Windows services.
 * [RStudio](https://www.rstudio.com): RStudio is a set of integrated tools designed to help you be more productive with the programming language. [Link to License](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf) in which the restriction is explicitely stated.
 * [Schema.org](https://schema.org): Schema.org specification.
+* [Skimlinks](https://skimlinks.com): A content-to-commerce platform that helps publishers monetize their editorial content through automated affiliate marketing. The landing page works, but the sign up doesn't.
 * [Softonic](https://www.softonic.com): App news and reviews, best software downloads and discovery.
 * [Sophos](https://www.sophos.com): Fully Synchronized, Cloud-Native Data Security.
 * [SourceForge](https://sourceforge.net): Open Source community resource dedicated to helping open source projects be as successful as possible (blocks file downloads from Cuba by default).

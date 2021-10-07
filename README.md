@@ -18,6 +18,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Dell](https://dell.com): American multinational computer technology company.
+* [Deno](https://deno.land): A modern runtime for JavaScript and TypeScript.
 * [devCodeCamp](https://devcodecamp.com/): Online coding bootcamp.
 * [DockerHub](https://hub.docker.com): World's easiest way to create, manage, and deliver your teams' container applications.
 * [Elm](http://elm-lang.org): Programming language for reliable web applications.

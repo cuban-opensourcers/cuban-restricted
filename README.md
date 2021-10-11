@@ -2,7 +2,6 @@
 
 Awesome list about tech sites/services restricted for Cuba. **This list has not been created by Github Inc. It is rather maintained by [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors) to this project.**
 
-* [000webhost](https://www.000webhost.com/) Free web hosting with cPanel, PHP & MySQL for a stunning blogging start.
 * [Adobe](https://www.adobe.com/): Creative, marketing and document management solutions.
 * [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
 * [AMD](https://www.amd.com): American multinational semiconductor company.
@@ -27,6 +26,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Crypto](https://crypto.com): Payment and cryptocurrency platform that empowers users to buy, sell, and pay with crypto.
 * [Dell](https://dell.com): American multinational computer technology company.
+* [Deno](https://deno.land): A modern runtime for JavaScript and TypeScript.
 * [Deribit](https://www.deribit.com): Bitcoin trading platform that enables individuals around the world to engage in futures and options trading.
 * [devCodeCamp](https://devcodecamp.com/): Online coding bootcamp.
 * [DockerHub](https://hub.docker.com): World's easiest way to create, manage, and deliver your teams' container applications.
@@ -38,6 +38,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Fiverr](https://fiverr.com): Freelance Services Marketplace for Businesses.
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [FreedomPhone](https://www.freedomphone.com): Free speech and privacy-first focused phone. With features like tracking blockers and an uncensorable app store.
+* [Freenom](https://www.freenom.com/): Freenom is a domain registrar that provides unlimited free domains (ending in .tk, .ml, .ga, .cf, or .gq) that last for one year.
 * [FTX](https://ftx.com/): FTX is a centralized cryptocurrency exchange specializing in derivatives and leveraged products.
 * [Gemini](https://www.gemini.com): Cryptocurrency exchange and custodian that allows customers to buy, sell, and store digital assets.
 * [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
@@ -86,9 +87,11 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Phoenix Framework](https://www.phoenixframework.org): Web development framework written in the functional programming language Elixir.
 * [Poloniex](https://poloniex.com): Cryptocurrency exchange that allows for the buying or selling of digital assets.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
+* [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
 * [RevertService](http://revertservice.com): Default configurations of Windows services.
 * [RStudio](https://www.rstudio.com): RStudio is a set of integrated tools designed to help you be more productive with the programming language. [Link to License](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf) in which the restriction is explicitely stated.
 * [Schema.org](https://schema.org): Schema.org specification.
+* [Skimlinks](https://skimlinks.com): A content-to-commerce platform that helps publishers monetize their editorial content through automated affiliate marketing. The landing page works, but the sign up doesn't.
 * [Softonic](https://www.softonic.com): App news and reviews, best software downloads and discovery.
 * [Sophos](https://www.sophos.com): Fully Synchronized, Cloud-Native Data Security.
 * [SourceForge](https://sourceforge.net): Open Source community resource dedicated to helping open source projects be as successful as possible (blocks file downloads from Cuba by default).
@@ -101,6 +104,8 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Telerik](https://www.telerik.com/): Component suite for jQuery/Angular/React/Vue/.Net/Java/PHP
 * [TensorFlow](https://www.tensorflow.org/): Free and open-source software library for dataflow and differentiable programming across a range of tasks.
 * [ThemeForest](https://themeforest.net/): Professional WordPress Themes & Website Templates for any project.
+* [TigerBeetle](https://www.tigerbeetle.com): The world’s fastest financial accounting database.
+* [TinyPNG](https://tinypng.com/): Smart and free service to compress Webp, PNG, and JPEG images.
 * [Toptal](https://www.toptal.com/): A global remote company that provides a freelancing platform (the site loads from Cuba, but prevents applying as a freelancer of hiring one).
 * [Trello](https://trello.com): Trello helps teams work more collaboratively and get more done. It have  web interface and iOS and Android clients.
 * [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+

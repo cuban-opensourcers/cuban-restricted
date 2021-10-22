@@ -25,6 +25,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
 * [Crypto](https://crypto.com): Payment and cryptocurrency platform that empowers users to buy, sell, and pay with crypto.
+* [DataCamp](https://www.datacamp.com/): Interactive learning platform for data science.
 * [Dell](https://dell.com): American multinational computer technology company.
 * [Deno](https://deno.land): A modern runtime for JavaScript and TypeScript.
 * [Deribit](https://www.deribit.com): Bitcoin trading platform that enables individuals around the world to engage in futures and options trading.

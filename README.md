@@ -103,6 +103,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
 * [VMWare](https://www.vmware.com): Cloud computing and virtualization technology.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
+* [WebIntoApp](https://www.webintoapp.com/): Turn a website into a dedicated App for Android and iOS.
 * [WeTransfer](https://www.wetransfer.com/): File sharing service.
 * [Wise](https://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world. 
 * [Zoom](https://www.zoom.us/): Free video conference platform.

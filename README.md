@@ -40,6 +40,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Google Chrome Developer](https://developer.chrome.com/): Official site for creating extensions, publishing to the Chrome Web Store, optimizing websites, and more.
 * [Google Cloud](https://cloud.google.com/): Google Cloud Platform, is a suite that contains various services that work on the same infrastructure that Google uses.
 * [Google Developers](https://developers.google.com): Resources for building better apps.
+* [Google Grow](https://grow.google/): Grow with Google offers free training and tools to help you grow your skills, career, or business.
 * [Google One](https://one.google.com): Subscription service developed by Google that offers expanded cloud storage. The free tool [Storage Manager](https://one.google.com/storage/management) is under this service, which is very useful to free up space and stay within the limit of 15 GB that Google gives for free.
 * [Google Play Publish](https://play.google.com/apps/publish): Google's developer acces to manage play store apps.
 * [Google Play](https://play.google.com): Official app store for the Android operating system (paid applications and several free applications are unavailable from Cuba)

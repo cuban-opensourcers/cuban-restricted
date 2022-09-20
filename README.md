@@ -10,16 +10,25 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [App Academy](https://www.appacademy.io/): Code academy.
 * [Atlassian](https://www.atlassian.com/): Software Development and Collaboration Tools.
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
+* [Binance](https://www.binance.com/): Binance is a cryptocurrency exchange which is currently the largest exchange in the world in terms of daily trading volume of cryptocurrencies.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian.
+* [Bitfinex](https://www.bitfinex.com): Digital asset trading platform.
 * [Bitly](https://bit.ly/): URL shortening service and link management platform.
+* [BitMEX](https://www.bitmex.com/): Cryptocurrency exchange and derivative trading platform.
+* [Bitso](https://bitso.com): Cryptocurrency exchange platform.
+* [Bitstamp](https://www.bitstamp.net): Cryptocurrency exchange. It allows trading between fiat currency, bitcoin and other cryptocurrencies.
 * [Bluehost](https://bluehost.com/): VPS Hosting, Wordpress hosting, Dedicated Hosting.
 * [Bugsnag](https://app.bugsnag.com/): Bugsnag monitors application stability so you can make data-driven decisions on whether you should be building new features, or fixing bugs.
+* [Bybit](https://www.bybit.com): Cryptocurrency derivatives exchange with a wide range of advanced trading tools.
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
+* [Coinbase](https://www.coinbase.com): Cryptocurrency exchange platform.
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 * [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
+* [Crypto](https://crypto.com): Payment and cryptocurrency platform that empowers users to buy, sell, and pay with crypto.
 * [DataCamp](https://www.datacamp.com/): Interactive learning platform for data science.
 * [Dell](https://dell.com): American multinational computer technology company.
 * [Deno](https://deno.land): A modern runtime for JavaScript and TypeScript.
+* [Deribit](https://www.deribit.com): Bitcoin trading platform that enables individuals around the world to engage in futures and options trading.
 * [devCodeCamp](https://devcodecamp.com/): Online coding bootcamp.
 * [DockerHub](https://hub.docker.com): World's easiest way to create, manage, and deliver your teams' container applications.
 * [Elm](http://elm-lang.org): Programming language for reliable web applications.
@@ -31,6 +40,8 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Flutter](https://flutter.dev): Open-source UI software development kit created by Google.
 * [FreedomPhone](https://www.freedomphone.com): Free speech and privacy-first focused phone. With features like tracking blockers and an uncensorable app store.
 * [Freenom](https://www.freenom.com/): Freenom is a domain registrar that provides unlimited free domains (ending in .tk, .ml, .ga, .cf, or .gq) that last for one year.
+* [FTX](https://ftx.com/): FTX is a centralized cryptocurrency exchange specializing in derivatives and leveraged products.
+* [Gemini](https://www.gemini.com): Cryptocurrency exchange and custodian that allows customers to buy, sell, and store digital assets.
 * [Gitkraken](https://www.gitkraken.com): Legendary Git GUI client for Windows, Mac & Linux.
 * [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
 * [Gitpod](https://www.gitpod.io/): Fully functional development environment, including a VS Code-based IDE and a cloud-based Linux container.
@@ -62,6 +73,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.
 * [Jira](https://jira.atlassian.com/): Issue tracking product developed by Atlassian
 * [Kaggle](https://www.kaggle.com/): World's largest data science community
+* [Kraken](https://www.kraken.com): United States-based cryptocurrency exchange and bank. The exchange provides trading between cryptocurrency and fiat currencies.
 * [Lager](https://www.lagerdata.com/): Debug, measure signals, fetch logs, write test automations, and More... on custom hardware anywhere in the world.
 * [Mailchimp](https://www.mailchimp.com/):Mailchimp es un proveedor de servicios de marketing por correo electrónico.
 * [Mojaloop](https://mojaloop.io/): Open source software for payment interoperability.
@@ -70,10 +82,13 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.
 * [MySQL](https://www.mysql.com): Open-source relational database management system (the site is accessible, but downloads are prohibited)
 * [NVIDIA](http://www.nvidia.com): Inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
+* [OKCoin](https://www.okcoin.com/): Provides fiat trading with major digital assets.
+* [OKEx](https://www.okex.com/): Cryptocurrency exchange that provides a platform for trading various cryptocurrencies. Some of exchange's core features include spot and derivative trading.
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Phoenix Framework](https://www.phoenixframework.org): Web development framework written in the functional programming language Elixir.
+* [Poloniex](https://poloniex.com): Cryptocurrency exchange that allows for the buying or selling of digital assets.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
 * [RevertService](http://revertservice.com): Default configurations of Windows services.

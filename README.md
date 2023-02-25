@@ -84,6 +84,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [NVIDIA](http://www.nvidia.com): Inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
 * [OKCoin](https://www.okcoin.com/): Provides fiat trading with major digital assets.
 * [OKEx](https://www.okex.com/): Cryptocurrency exchange that provides a platform for trading various cryptocurrencies. Some of exchange's core features include spot and derivative trading.
+* [OpenAI](https://openai.com/): AI research and deployment company. OpenAI services like [ChatGPT](https://chat.openai.com/) or [DALL·E 2](https://openai.com/dall-e-2/) does not allow registration using cuban phone numbers.
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.

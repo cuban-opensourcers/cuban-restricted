@@ -66,6 +66,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [HackerRank](https://www.hackerrank.com/): Tech company that focuses on competitive programming challenges.
 * [Heroku User Sign Up](https://signup.heroku.com/): Cloud platform as a service. Registration is forbidden for Cuba.
 * [HOPL](https://hopl.info): Online Historical Encyclopaedia of Programming Languages.
+* [Hex.pm](https://hex.pm): Elixir package repository.
 * [IBM](https://www.ibm.com/): International Business Machines Corporation, an American multinational technology corporation providing computer hardware, software and consulting services.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
@@ -90,7 +91,6 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
 * [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
 * [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
-* [Phoenix Framework](https://www.phoenixframework.org): Web development framework written in the functional programming language Elixir.
 * [Poloniex](https://poloniex.com): Cryptocurrency exchange that allows for the buying or selling of digital assets.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.

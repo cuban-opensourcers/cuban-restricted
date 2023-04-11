@@ -1,6 +1,6 @@
 # Software, sites, and services restricted for Cuba
 
-Awesome list about tech sites/services restricted for Cuba. **This list has not been created by Github Inc. It is rather maintained by [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors) to this project** with informational purposes only.
+Awesome list about tech sites/services restricted for Cuba. **This list has not been created by Github Inc. It is rather maintained by [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors) to this project**, with informational purposes only.
 
 * [Adobe](https://www.adobe.com/): Creative, marketing and document management solutions.
 * [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.

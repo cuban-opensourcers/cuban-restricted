@@ -4,11 +4,13 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 
 * [Adobe](https://www.adobe.com/): Creative, marketing and document management solutions.
 * [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
+* [Apple Developer](https://developer.apple.com/) Apple Inc.'s website for software development tools, application programming interfaces (APIs), and technical resources.
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com): The official site for Android app developers. Provides the Android SDK tools and API documentation.
 * [App Academy](https://www.appacademy.io/): Code academy.
 * [Atlassian](https://www.atlassian.com/): Software Development and Collaboration Tools.
+* [Avid](https://www.avid.com/): Avid empowers media creators with innovative technology and collaborative tools to entertain, inform, educate and enlighten the world.
 * [AWS Console](https://console.aws.amazon.com/): Web application for managing Amazon Web Services Cloud.
 * [Binance](https://www.binance.com/): Binance is a cryptocurrency exchange which is currently the largest exchange in the world in terms of daily trading volume of cryptocurrencies.
 * [Bitbucket](https://bitbucket.org/): Web-based version control repository hosting service owned by Atlassian.
@@ -69,13 +71,16 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Hex.pm](https://hex.pm): Elixir package repository.
 * [IBM](https://www.ibm.com/): International Business Machines Corporation, an American multinational technology corporation providing computer hardware, software and consulting services.
 * [IBM Bluemix](http://bluemix.net/): Cloud Platform as a service (PaaS) developed by IBM.
+* [ifconfig.me](https://ifconfig.me/): Web service that displays information about your connection, including IP address, hostname and User Agent string.
 * [Intel Open Source Technology Center](https://01.org/): Open source work that Intel engineers are involved in.
 * [Intel](https://www.intel.com): Data Center Solutions, IoT, and PC Innovation. (Other localized sites such as https://www.intel.es or https://www.intel.la work, though)
+* [Intuit](https://www.intuit.com/): Intuit Inc. provides financial management and compliance products and services for consumers, small businesses, self-employed, and accounting professionals.
 * [IPinfo](https://ipinfo.io/): Comprehensive IP address data, IP geolocation API and database.
 * [Itch](https://itch.io/): Popular marketplace for independent digital creators with a focus on independent video games. It does not allow to upload files and sell or buy assets.
 * [Java](https://www.java.com/download/): World leading programming language and computing platform.
 * [Jira](https://jira.atlassian.com/): Issue tracking product developed by Atlassian
 * [Kaggle](https://www.kaggle.com/): World's largest data science community
+* [Ko-fi](https://ko-fi.com/): Ko-fi allows creators to receive money from fans of their content.
 * [Kraken](https://www.kraken.com): United States-based cryptocurrency exchange and bank. The exchange provides trading between cryptocurrency and fiat currencies.
 * [Lager](https://www.lagerdata.com/): Debug, measure signals, fetch logs, write test automations, and More... on custom hardware anywhere in the world.
 * [Mailchimp](https://www.mailchimp.com/):Mailchimp es un proveedor de servicios de marketing por correo electrónico.
@@ -95,6 +100,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
 * [RevertService](http://revertservice.com): Default configurations of Windows services.
+* [Rippling](https://rippling.com): Full-service HR software solutions provider.
 * [RStudio](https://www.rstudio.com): RStudio is a set of integrated tools designed to help you be more productive with the programming language. [Link to License](https://www.rstudio.com/assets/img/RStudio-EULA-2021-April-20.pdf) in which the restriction is explicitely stated.
 * [Schema.org](https://schema.org): Schema.org specification.
 * [SimilarWeb](https://www.similarweb.com/): The platform provides web analytics services and offers its users information on their clients' and competitors' web traffic and performance.
@@ -119,6 +125,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
+* [Uphold](https://uphold.com/): Digital financial platform that allows individuals to trade and transfer various assets, including currencies, precious metals, and cryptocurrencies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [UsabilityHub](https://usabilityhub.com/): Remote user research platform to make better design decisions.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.

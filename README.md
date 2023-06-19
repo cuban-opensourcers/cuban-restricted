@@ -34,6 +34,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [devCodeCamp](https://devcodecamp.com/): Online coding bootcamp.
 * [DockerHub](https://hub.docker.com): World's easiest way to create, manage, and deliver your teams' container applications.
 * [Elm](http://elm-lang.org): Programming language for reliable web applications.
+* [eero](https://eero.com): Whole home mesh WiFi routers owned by Amazon.
 * [Expo](https://expo.io/): Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 * [FileHippo](https://www.filehippo.com): Free downloads for recent versions of popular freeware/shareware MS Windows software.
 * [Firebase](https://firebase.google.com): Mobile and web application development platform.

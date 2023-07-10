@@ -3,8 +3,8 @@
 Awesome list about tech sites/services restricted for Cuba. **This list has not been created by Github Inc. It is rather maintained by [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors) to this project**, with informational purposes only.
 
 * [Adobe](https://www.adobe.com/): Creative, marketing and document management solutions.
-* [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
-* [Apple Developer](https://developer.apple.com/) Apple Inc.'s website for software development tools, application programming interfaces (APIs), and technical resources.
+* [Algolia](https://www.algolia.com/): The flexible AI-powered Search & Discovery platform.
+* [Apple Developer](https://developer.apple.com/): Apple Inc.'s website for software development tools, application programming interfaces (APIs), and technical resources.
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com): The official site for Android app developers. Provides the Android SDK tools and API documentation.
@@ -89,14 +89,15 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
 * [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.
+* [MX](https://www.mx.com): Data aggregator from over 10,000 financial institutions. MX services like [Dashboard](https://dashboard.mx.com) does not allow to stablish a connection.
 * [MySQL](https://www.mysql.com): Open-source relational database management system (the site is accessible, but downloads are prohibited)
 * [NVIDIA](http://www.nvidia.com): Inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
 * [OKCoin](https://www.okcoin.com/): Provides fiat trading with major digital assets.
 * [OKEx](https://www.okex.com/): Cryptocurrency exchange that provides a platform for trading various cryptocurrencies. Some of exchange's core features include spot and derivative trading.
 * [OpenAI](https://openai.com/): AI research and deployment company. OpenAI services like [ChatGPT](https://chat.openai.com/) or [DALL·E 2](https://openai.com/dall-e-2/) does not allow access or registration using cuban phone numbers.
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
-* [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
-* [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
+* [Patreon](https://www.patreon.com/): A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
+* [PayPal](https://www.paypal.com/): Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Poloniex](https://poloniex.com): Cryptocurrency exchange that allows for the buying or selling of digital assets.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
@@ -125,7 +126,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
-* [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
+* [Unreal Engine](https://www.unrealengine.com/): One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
 * [Uphold](https://uphold.com/): Digital financial platform that allows individuals to trade and transfer various assets, including currencies, precious metals, and cryptocurrencies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [UsabilityHub](https://usabilityhub.com/): Remote user research platform to make better design decisions.

@@ -74,6 +74,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Jira](https://jira.atlassian.com/): Issue tracking product developed by Atlassian
 * [Kaggle](https://www.kaggle.com/): World's largest data science community
 * [Kraken](https://www.kraken.com): United States-based cryptocurrency exchange and bank. The exchange provides trading between cryptocurrency and fiat currencies.
+* [Koolatron](https://www.koolatron.com): Koolatron is a global leader in thermoelectric and refrigeration products and is widely known for our flagship line of 12 volt coolers and warmers.
 * [Lager](https://www.lagerdata.com/): Debug, measure signals, fetch logs, write test automations, and More... on custom hardware anywhere in the world.
 * [Mailchimp](https://www.mailchimp.com/):Mailchimp es un proveedor de servicios de marketing por correo electrónico.
 * [Mojaloop](https://mojaloop.io/): Open source software for payment interoperability.

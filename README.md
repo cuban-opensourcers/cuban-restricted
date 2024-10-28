@@ -88,7 +88,6 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Mojaloop](https://mojaloop.io/): Open source software for payment interoperability.
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
-* [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.
 * [MySQL](https://www.mysql.com): Open-source relational database management system (the site is accessible, but downloads are prohibited)
 * [NVIDIA](http://www.nvidia.com): Inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
 * [OKCoin](https://www.okcoin.com/): Provides fiat trading with major digital assets.

@@ -3,8 +3,8 @@
 Awesome list about tech sites/services restricted for Cuba. **This list has not been created by Github Inc. It is rather maintained by [contributors](https://github.com/cuban-opensourcers/cuban-restricted/graphs/contributors) to this project**, with informational purposes only.
 
 * [Adobe](https://www.adobe.com/): Creative, marketing and document management solutions.
-* [Algolia](https://www.algolia.com/) The flexible AI-powered Search & Discovery platform.
-* [Apple Developer](https://developer.apple.com/) Apple Inc.'s website for software development tools, application programming interfaces (APIs), and technical resources.
+* [Algolia](https://www.algolia.com/): The flexible AI-powered Search & Discovery platform.
+* [Apple Developer](https://developer.apple.com/): Apple Inc.'s website for software development tools, application programming interfaces (APIs), and technical resources.
 * [AMD](https://www.amd.com): American multinational semiconductor company.
 * [AMP](https://amp.dev/): Web Component Framework That Help You Create User-First Websites Easily.
 * [Android Developers](https://developer.android.com): The official site for Android app developers. Provides the Android SDK tools and API documentation.
@@ -25,7 +25,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
 * [Coinbase](https://www.coinbase.com): Cryptocurrency exchange platform.
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
-* [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
+* [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population.
 * [Crypto](https://crypto.com): Payment and cryptocurrency platform that empowers users to buy, sell, and pay with crypto.
 * [DataCamp](https://www.datacamp.com/): Interactive learning platform for data science.
 * [Dell](https://dell.com): American multinational computer technology company.
@@ -49,7 +49,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
 * [Gitpod](https://www.gitpod.io/): Fully functional development environment, including a VS Code-based IDE and a cloud-based Linux container.
 * [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
-* [Google AI hub](https://aihub.cloud.google.com/): 
+* [Google AI hub](https://aihub.cloud.google.com/):
 Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI components, including end-to-end AI pipelines and out-of-the-box algorithms.
 * [Google Arts & Culture](https://artsandculture.google.com/): Non-profit initiative working with cultural institutions and artists around the world, to preserve and bring the world’s art and culture online so it’s accessible to anyone, anywhere.
 * [Google Books Ngram Viewer](https://books.google.com/ngrams): Online search engine that charts the frequencies of any set of search strings found in written sources.
@@ -89,14 +89,15 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [MongoDB](https://www.mongodb.com): Cloud services and documentation for MongoDB, a document database.
 * [Motorola Mobility](https://www.motorola.com): Consumer electronics and telecommunications subsidiary company owned by Chinese technology firm Lenovo
 * [Mozilla Hacks](https://hacks.mozilla.org/): Blog for web developers run by the Mozilla Foundation.
+* [MX](https://www.mx.com): Data aggregator from over 10,000 financial institutions. MX services like [Dashboard](https://dashboard.mx.com) does not allow to stablish a connection.
 * [MySQL](https://www.mysql.com): Open-source relational database management system (the site is accessible, but downloads are prohibited)
 * [NVIDIA](http://www.nvidia.com): Inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
 * [OKCoin](https://www.okcoin.com/): Provides fiat trading with major digital assets.
 * [OKEx](https://www.okex.com/): Cryptocurrency exchange that provides a platform for trading various cryptocurrencies. Some of exchange's core features include spot and derivative trading.
 * [OpenAI](https://openai.com/): AI research and deployment company. OpenAI services like [ChatGPT](https://chat.openai.com/) or [DALL·E 2](https://openai.com/dall-e-2/) does not allow access or registration using cuban phone numbers.
 * [Oracle](https://oracle.com): American multinational computer technology corporation.
-* [Patreon](https://www.patreon.com/) A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
-* [PayPal](https://www.paypal.com/) Platform to send money, make an online payment, receive money or set up a merchant account.
+* [Patreon](https://www.patreon.com/): A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
+* [PayPal](https://www.paypal.com/): Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Poloniex](https://poloniex.com): Cryptocurrency exchange that allows for the buying or selling of digital assets.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
@@ -112,6 +113,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
+* [Tailscale](https://tailscale.com/): Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.
 * [Taler](https://www.taler.app/): Drag & drop design platform.
 * [TeamSpeak](https://www.teamspeak.com/): VoIP communication system.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
@@ -125,7 +127,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Tuts+](https://tutsplus.com): Free How-To Tutorials & Online Courses by Envato Tuts+
 * [Twilio](http://twilio.com/): Cloud communications platform as a service company.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
-* [Unreal Engine](https://www.unrealengine.com/) One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
+* [Unreal Engine](https://www.unrealengine.com/): One of the world's most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.
 * [Uphold](https://uphold.com/): Digital financial platform that allows individuals to trade and transfer various assets, including currencies, precious metals, and cryptocurrencies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [UsabilityHub](https://usabilityhub.com/): Remote user research platform to make better design decisions.
@@ -134,6 +136,6 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
 * [WebIntoApp](https://www.webintoapp.com/): Turn a website into a dedicated App for Android and iOS.
 * [WeTransfer](https://www.wetransfer.com/): File sharing service.
-* [Wise](https://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world. 
+* [Wise](https://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world.
 * [Zappter](https://www.zappter.com/): Drag and drop app builder.
 * [Zoom](https://www.zoom.us/): Free video conference platform.

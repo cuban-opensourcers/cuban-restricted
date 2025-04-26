@@ -25,7 +25,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [CircleCI](https://circleci.com/): Cloud-based continuous integration and delivery system ([screenshot](CircleCI.md))
 * [Coinbase](https://www.coinbase.com): Cryptocurrency exchange platform.
 * [Compiler Explorer](https://godbolt.org): Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
-* [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population. 
+* [COURSERA](https://es.coursera.org): Coursera is a virtual education platform born in October 2011 and developed by academics at Stanford University with the aim of providing mass education offerings to the population.
 * [Crypto](https://crypto.com): Payment and cryptocurrency platform that empowers users to buy, sell, and pay with crypto.
 * [DataCamp](https://www.datacamp.com/): Interactive learning platform for data science.
 * [Dell](https://dell.com): American multinational computer technology company.
@@ -49,7 +49,7 @@ Awesome list about tech sites/services restricted for Cuba. **This list has not 
 * [Gitlab](https://gitlab.com): Web-based version control repository hosting service owned by GitLab Inc ([screenshot](GitLab.md))
 * [Gitpod](https://www.gitpod.io/): Fully functional development environment, including a VS Code-based IDE and a cloud-based Linux container.
 * [Golang](https://golang.org/): Statically typed, compiled programming language designed at Google
-* [Google AI hub](https://aihub.cloud.google.com/): 
+* [Google AI hub](https://aihub.cloud.google.com/):
 Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI components, including end-to-end AI pipelines and out-of-the-box algorithms.
 * [Google Arts & Culture](https://artsandculture.google.com/): Non-profit initiative working with cultural institutions and artists around the world, to preserve and bring the world’s art and culture online so it’s accessible to anyone, anywhere.
 * [Google Books Ngram Viewer](https://books.google.com/ngrams): Online search engine that charts the frequencies of any set of search strings found in written sources.
@@ -113,6 +113,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Stripe](http://stripe.org/): Online payment processing for companies operating on the Internet.
 * [StyleCI](https://styleci.io/): The Web Coding Style Fixer.
 * [Swift](http://swift.org/): General-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
+* [Tailscale](https://tailscale.com/): Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.
 * [Taler](https://www.taler.app/): Drag & drop design platform.
 * [TeamSpeak](https://www.teamspeak.com/): VoIP communication system.
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
@@ -135,6 +136,6 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
 * [WebIntoApp](https://www.webintoapp.com/): Turn a website into a dedicated App for Android and iOS.
 * [WeTransfer](https://www.wetransfer.com/): File sharing service.
-* [Wise](https://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world. 
+* [Wise](https://www.wise.com/): Wise, formerly TransferWise, is a London-based financial technology company. You can have an international account to send money to more than 60 countries around the world.
 * [Zappter](https://www.zappter.com/): Drag and drop app builder.
 * [Zoom](https://www.zoom.us/): Free video conference platform.

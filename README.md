@@ -132,6 +132,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Uphold](https://uphold.com/): Digital financial platform that allows individuals to trade and transfer various assets, including currencies, precious metals, and cryptocurrencies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [UsabilityHub](https://usabilityhub.com/): Remote user research platform to make better design decisions.
+* [Utah](https://utah.com): Utah.com is an independent Utah travel and tourism website.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
 * [VMWare](https://www.vmware.com): Cloud computing and virtualization technology.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider

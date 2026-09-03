@@ -98,6 +98,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Patreon](https://www.patreon.com/): A popular crowdfunding platform: way for artists and creators to get sustainable income and connect with fans. Does not allow sell or buy.
 * [PayPal](https://www.paypal.com/): Platform to send money, make an online payment, receive money or set up a merchant account.
 * [Poloniex](https://poloniex.com): Cryptocurrency exchange that allows for the buying or selling of digital assets.
+* [Posthog](https://app.posthog.com): PostHog automatically diagnoses problems, fixes bugs, and generates pull requests - all without you having to prompt it.
 * [Realm](https://realm.io/): Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences using simple data sync.
 * [Redirectingat](https://redirectingat.com/): This is part of [Skimlinks](https://skimlinks.com/). It is used indirectly by clicking on a link monetized with Skimlinks, which we can find on any website.
 * [RevertService](http://revertservice.com): Default configurations of Windows services.
@@ -130,6 +131,7 @@ Google Cloud's Artificial Intelligence (AI) Hub is a catalog of plug-and-play AI
 * [Uphold](https://uphold.com/): Digital financial platform that allows individuals to trade and transfer various assets, including currencies, precious metals, and cryptocurrencies.
 * [Upwork](https://www.upwork.com): Global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 * [UsabilityHub](https://usabilityhub.com/): Remote user research platform to make better design decisions.
+* [Utah](https://utah.com): Utah.com is an independent Utah travel and tourism website.
 * [VirtualBox](https://www.virtualbox.org): Free and open-source hosted hypervisor for x86 virtualization, developed by Oracle Corporation.
 * [VMWare](https://www.vmware.com): Cloud computing and virtualization technology.
 * [Vultr](https://www.vultr.com/): VPS Hosting, Bared Metal Hosting, Object and Block Storage provider
